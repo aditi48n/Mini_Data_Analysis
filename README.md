@@ -1,9 +1,9 @@
-# Mini_Data_Analysis
+# Mini Data Analysis
 
 ## Project Description
 This repository includes a summary of the EDA project  performed as part of University of British Columbia's graduate course [STAT 545](https://stat545.stat.ubc.ca/). The original work and all associated milestones are available [here](https://github.com/stat545ubc-2021/Aditi_MiniDataAnalysis). 
 
-The dataset used for analysis has been obtained from The City of Vancouver's [open data portal](https://opendata.vancouver.ca/explore/dataset/street-trees/). It includes a listing of all public trees on boulevards in the City of Vancouver and provides data on tree coordinates, species and other related characteristics. The dataset refreshes daily on weekdays with some attributes taking longer to be updated. 
+:evergreen_tree: The dataset used for analysis has been obtained from The City of Vancouver's [open data portal](https://opendata.vancouver.ca/explore/dataset/street-trees/). It includes a listing of all public trees on boulevards in the City of Vancouver and provides data on tree coordinates, species and other related characteristics. The dataset refreshes daily on weekdays with some attributes taking longer to be updated. 
 
 ## Repository Contents 
 - [x] The repository contains the following documents: 
