@@ -1,7 +1,7 @@
 # Mini Data Analysis
 
 ## Project Description
-This repository includes a EDA project performed on a airports dataset obtained from Kaggle.  
+This repository includes an EDA project performed on a airports dataset obtained from Kaggle.  
 
 ✈️ The dataset used for analysis has been obtained from [Kaggle](https://www.kaggle.com/datasets/harshalhonde/global-aviation-hub-dataset-of-airports-worldwide/data). It includes a comprehensive collection of airport information from around the world and provides data on airport coordinates, types, elevation and other characteristics. 
 
