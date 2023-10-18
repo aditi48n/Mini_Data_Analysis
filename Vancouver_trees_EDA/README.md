@@ -5,6 +5,8 @@
 
 **Date:** 2021-10-28
 
+![](Trees.png)
+
 ## Project Description
 This repository includes a summary of the EDA project  performed as part of University of British Columbia's graduate course [STAT 545](https://stat545.stat.ubc.ca/). The original work and all associated milestones are available [here](https://github.com/stat545ubc-2021/Aditi_MiniDataAnalysis). 
 
