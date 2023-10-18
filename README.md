@@ -1,5 +1,7 @@
 # Mini Data Analysis
 
+![](EDA.png)
+
 ## Project Description
 This repository includes a summary of two EDA projects performed in R and Python and their corresponding files. More information on the datasets used and the analysis codes are present in the respective folders. 
 
